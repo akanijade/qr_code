@@ -10,4 +10,5 @@ sudo apt-get install python3-tk
 - generate browse option for location saved
 - generate url
 - aesthetic
+<br>
 [References](https://data-flair.training/blogs/python-qr-code-generator-project/)
