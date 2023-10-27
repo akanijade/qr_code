@@ -11,4 +11,5 @@ sudo apt-get install python3-tk
 - generate url
 - aesthetic
 <br>
-[References](https://data-flair.training/blogs/python-qr-code-generator-project)
+## References
+[link to reference] (https://data-flair.training/blogs/python-qr-code-generator-project)
